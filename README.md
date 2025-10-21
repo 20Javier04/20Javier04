@@ -1,5 +1,5 @@
-# <img src="./img/blackhole-bw.png" width="1600" /> Javier Ignacio Munoz Inalaf
-
+# <img src="./img/blackhole-bw.png" width="1600" /> <center>Javier Ignacio Muñoz Inalaf</center>
+### <center>Estudiante de ingeniería civil informática de la [Universidad Catolica de Temuco](https://www.uct.cl/ "Universidad Catolica de Temuco.")</center>
 <!--
 **20Javier04/20Javier04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
